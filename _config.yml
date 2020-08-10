@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Jasper Math Club
+description: Website of Jasper High School (Plano, Texas) Math Club
+show_downloads: false
+google_analytics: true
 theme: jekyll-theme-cayman
